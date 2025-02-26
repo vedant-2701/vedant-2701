@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/vedant2701/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.hackerrank.com/profile/vedant2720" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="https://www.geeksforgeeks.org/user/vedantoj7y/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2DB33D?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-  <a href="https://leetcode.com/u/user6419ME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/vedant_2701/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 ---
