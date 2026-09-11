@@ -3,7 +3,7 @@
 ![Vedant Daryapurkar](hero.svg)
 
 <a href="https://github.com/vedant-2701">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2800&pause=1200&color=39D98A&center=true&vCenter=true&width=520&height=36&background=00000000&lines=Backend+%2B+AI%2FML+Engineer;VaniSetu+-+A+Video+Translation+Platform;Shipping+DocIntel;Learning+Go+%2B+Systems+Design;Prepping+for+Grad+School+Abroad;Open+Source+Contribution;Happy+to+connect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2800&pause=1200&color=39D98A&center=true&vCenter=true&width=520&height=36&background=00000000&lines=Backend+%2B+AI%2FML+Engineer;VaniSetu+-+A+Video+Translation+Platform;Shipping+DocIntel;Learning+Go+%2B+System+Design;Prepping+for+Grad+School+Abroad;Open+Source+Contribution;Happy+to+connect" alt="Typing SVG" />
 </a>
 
 </div>
